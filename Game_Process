@@ -1,0 +1,21 @@
+This is the basic process of the game.
+
+2-4 players
+
+Game Setup:
+
+1. Each player recieves 5 random tiles.
+2. A random tile is placed in the middle of the board. 
+
+Placing Pieces:
+
+-Pieces placed must be touching at least one side of already placed piece. Connecting an existing line while not blocking any lines.
+-Pieces may not be placed so the lines terminate at the edge of the board.
+- On the turn the player can either place up to 3 of their tiles, or throw their hand away and recieving 5 new tiles (loosing their turn)
+
+Scoring:
+Scoring is calculated at the end of the turn. Bonus tiles are calculated, and the scores are calculated as a running total. 
+
+Ending the Game:
+
+The game is finished when either no more pieces can be placed without breaking the rules, or when all of the tiles have been used.
